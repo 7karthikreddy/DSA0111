@@ -1,7 +1,7 @@
 # DSA01-RegisterNumber-Assignment2
 
-**Student name:** [P Rahul Sai]  
-**Register number:** [192524226]  
+**Student name:** [Venkata Karthik Reddy]  
+**Register number:** [192472241]  
 **Course:** CO2 – C++ Functions and Object-Oriented Concepts  
 **Assignment:** 2 (50 marks)  
 **Submission date in PDF:** 31/10/2026
